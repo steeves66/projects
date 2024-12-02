@@ -13,7 +13,7 @@ admin.site.unregister(User)
 admin.site.unregister(Group)
 admin.site.site_header = "DGMP"
 admin.site.site_title = "DGMP Contrôle à posteriori"
-admin.site.index_title = "Contrôle à posteriori Procédures"
+admin.site.index_title = "Contrôle à posteriori - Procédures"
 
 
 actions = ["test"]
